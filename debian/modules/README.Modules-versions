@@ -52,3 +52,7 @@ README for Modules versions
  ngx_http_substitutions_filter_module
   Homepage: https://github.com/yaoweibin/ngx_http_substitutions_filter_module
   Version: v0.6.4
+
+ ngx_aws_auth
+  Homepage: https://github.com/anomalizer/ngx_aws_auth
+  Version: 1c4d97dbe086ffbc24868d186dc2e89afa645b8f
